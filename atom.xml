@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Van Korsan Taksi | Ferit Melen Havalimanı ve Akdamar</title>
+  <link href="https://vankorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://vankorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://vankorsantaksi.github.io/</id>
+  <updated>2026-11-19T20:42:58.365Z</updated>
+  <author><name>Van Korsan Taksi</name></author>
+  <entry>
+    <title>Van Korsan Taksi | Ferit Melen Havalimanı ve Akdamar</title>
+    <link href="https://vankorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://vankorsantaksi.github.io/</id>
+    <updated>2026-11-19T20:42:58.365Z</updated>
+    <summary>Van korsan taksi: Ferit Melen Havalimanı İpekyolu'ndan 8 km, Akdamar iskelesi ve Van Kalesi, Muradiye Şelalesi, Erciş, Başkale ve Kapıköy Sınır Kapısı.</summary>
+  </entry>
+</feed>
